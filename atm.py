@@ -1,5 +1,6 @@
 """
 File: atm.py
+Author: Samuel Tijani
 This module defines the ATM class and its application.
 To test, launch from IDLE and run
 >>> createBank(5)
